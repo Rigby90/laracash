@@ -28,8 +28,8 @@
         "ext-bcmath": "*",
         "ext-gmp": "*",
         "ext-intl": "*",
-        "orchestra/testbench": "5.5.0",
-        "phpunit/phpunit": "8.5.8"
+        "orchestra/testbench": "^v6.17.0",
+        "phpunit/phpunit": "^9.5.4"
     },
     "autoload": {
         "psr-4": {
